@@ -1,0 +1,65 @@
+[
+	{
+		"id": "some_id_1-Health-1624131383.6796355",
+		"timestamp": 1624131383.6796355,
+		"info": {
+			"weight": 75.3
+		}
+	},
+	{
+		"id": "some_id_1-Health-1624131383.6796737",
+		"timestamp": 1624131383.6796737,
+		"info": {
+			"weight": 75.1
+		}
+	},
+	{
+		"id": "some_id_1-Health-1624131383.6796803",
+		"timestamp": 1624131383.6796803,
+		"info": {
+			"weight": 75.0
+		}
+	},
+	{
+		"id": "some_id_1-Health-1624131383.679686",
+		"timestamp": 1624131383.679686,
+		"info": {
+			"weight": 74.75
+		}
+	},
+	{
+		"id": "some_id_1-Health-1624131383.6796355",
+		"timestamp": 1624131383.6796355,
+		"info": {
+			"weight": 75.3
+		}
+	},
+	{
+		"id": "some_id_1-Health-1624131383.6796737",
+		"timestamp": 1624131383.6796737,
+		"info": {
+			"weight": 75.1
+		}
+	},
+	{
+		"id": "some_id_1-Health-1624131383.6796803",
+		"timestamp": 1624131383.6796803,
+		"info": {
+			"weight": 75.0
+		}
+	},
+	{
+		"id": "some_id_1-Health-1624131383.679686",
+		"timestamp": 1624131383.679686,
+		"info": {
+			"weight": 74.75
+		}
+	},
+	{
+		"id": "some_id_1-Health-1624131383.6801977",
+		"timestamp": 1624131383.6801977,
+		"info": {
+			"weight": 74.2
+		}
+	}
+]

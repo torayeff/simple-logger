@@ -1,0 +1,18 @@
+[
+	{
+		"id": "my_awesome_id2-PhD-1624131383.6810176",
+		"timestamp": 1624131383.6810176,
+		"info": {
+			"activity": "Reading papers",
+			"duration": "45min"
+		}
+	},
+	{
+		"id": "my_awesome_id2-PhD-1624131383.6810334",
+		"timestamp": 1624131383.6810334,
+		"info": {
+			"activity": "Lab Experiment",
+			"duration": "120mins"
+		}
+	}
+]
